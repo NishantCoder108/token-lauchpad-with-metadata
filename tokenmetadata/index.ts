@@ -52,9 +52,9 @@ const createTokenTx = await buildCreateTokenTransaction({
   // mintAuthority, // default=same as the `feePayer`
   metadata: {
     isMutable: true, // if the `updateAuthority` can change this metadata in the future
-    name: "Planted Tree",
-    symbol: "PLANTD",
-    uri: "https://purple-eldest-shark-702.mypinata.cloud/ipfs/bafkreihnuggcoacokgkwizwdmbru4q5nnp25uk5dnbxeyk4b2hmyszp7my",
+    name: "Nishant",
+    symbol: "NSHANT",
+    uri: "https://purple-el....-702.mypinata.cloud/ipfs/bafkreihnuggcoacokgkwiz...b2hmyszp7my",
   },
   // updateAuthority, // default=same as the `feePayer`
   decimals: 6, // default=9,
