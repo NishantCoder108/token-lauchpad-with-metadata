@@ -3,3 +3,6 @@ node_modules
 secretkey/*.json
 
 .env
+
+mintTokenWithMetadata/*
+metadata/*
